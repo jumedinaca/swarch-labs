@@ -5,8 +5,8 @@ Repositorio con los laboratorios desarrollados para el curso de **Arquitectura d
 
 ## Autores
 
-**Juan Esteban Medina Cárdenas**
-** --**
-** --**
+* **Juan Esteban Medina Cárdenas**
+* **Sergio Andres Hernandez Salinas**
+* **--**
 Curso: **Arquitectura de Software**
 Universidad Nacional de Colombia
