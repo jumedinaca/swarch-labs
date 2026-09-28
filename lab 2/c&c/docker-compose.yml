@@ -27,6 +27,10 @@ services:
     ports:
       - "3306:3306"
 
+    #Init db
+    volumes:
+    - ./component-3/init.sql:/docker-entrypoint-initdb.d/init.sql
+
   component-4:
     build: ./component-4
     container_name: component-4
